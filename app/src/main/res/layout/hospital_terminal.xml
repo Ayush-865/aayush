@@ -10,7 +10,7 @@
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:contentDescription="hii"
+        android:contentDescription="hie"
         tools:ignore="HardcodedText" />
 
     <androidx.viewpager2.widget.ViewPager2
