@@ -1,4 +1,4 @@
-package com.example.camps;
+package com.example.tablayout;
 
 public class camp_str {
 

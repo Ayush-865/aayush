@@ -1,4 +1,4 @@
-package com.example.camps;
+package com.example.tablayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
